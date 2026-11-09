@@ -4,7 +4,7 @@
 # =====================================================================
 backend:
   name: github
-  repo: USERNAME/REPOSITORY   # <-- CHANGE ME
+  repo: kaelspage-shop/kaels-page   # <-- CHANGE ME
   branch: main
 
 local_backend: true            # lets `npx decap-server` work on your computer (ignored online)
