@@ -1,0 +1,87 @@
+# =====================================================================
+#  Decap CMS (admin panel) — open it at  https://YOUR-SITE/admin
+#  CHANGE `repo` below to your GitHub  username/repository-name.
+# =====================================================================
+backend:
+  name: github
+  repo: USERNAME/REPOSITORY   # <-- CHANGE ME
+  branch: main
+
+local_backend: true            # lets `npx decap-server` work on your computer (ignored online)
+media_folder: public/images    # uploaded images are saved here
+public_folder: /images
+site_url: https://YOUR-SITE.netlify.app   # <-- CHANGE ME (optional)
+
+collections:
+  - name: catalog
+    label: Catalog
+    files:
+      - name: products
+        label: Products
+        file: src/data/products.json
+        fields:
+          - label: Products
+            name: products
+            widget: list
+            label_singular: Product
+            summary: "{{fields.name}} — {{fields.category}}"
+            fields:
+              - { label: Name, name: name, widget: string }
+              - label: Category
+                name: category
+                widget: select
+                # Keep in sync with src/data/categories.js
+                options: ["Entertainment", "Productivity", "Design & Creativity", "Education", "Other Apps"]
+              - label: Status
+                name: status
+                widget: select
+                default: available
+                options:
+                  - { label: Available, value: available }
+                  - { label: Limited stock, value: limited }
+                  - { label: Sold out, value: soldout }
+              - { label: Image, name: image, widget: image, required: false, default: /images/placeholder.svg }
+              - { label: Description, name: description, widget: text }
+              - label: Plans (duration and price)
+                name: options
+                widget: list
+                label_singular: Plan
+                summary: "{{fields.group}} {{fields.duration}} — Rp{{fields.price}}"
+                fields:
+                  - { label: Account type / variant, name: group, widget: string, required: false, hint: "Example: Sharing, Private, 1P1U" }
+                  - { label: Duration, name: duration, widget: string, hint: "Example: 1 Month" }
+                  - { label: Price (Rupiah, no dots), name: price, widget: number, value_type: int, min: 0 }
+              - { label: Specifications, name: specifications, widget: list, required: false, field: { label: Item, name: item, widget: string } }
+              - { label: Terms and conditions, name: terms, widget: list, required: false, field: { label: Item, name: item, widget: string } }
+
+      - name: faq
+        label: FAQ
+        file: src/data/faq.json
+        fields:
+          - label: Questions
+            name: items
+            widget: list
+            label_singular: Question
+            summary: "{{fields.q}}"
+            fields:
+              - { label: Question, name: q, widget: string }
+              - { label: Answer, name: a, widget: text }
+
+      - name: settings
+        label: Store Settings
+        file: src/data/settings.json
+        fields:
+          - { label: Tagline (hero title), name: tagline, widget: string }
+          - { label: Hero text, name: heroText, widget: text }
+          - { label: Store description (footer), name: description, widget: text }
+          - { label: WhatsApp number, name: whatsappNumber, widget: string, hint: "Digits only, country code first. 0812-3456-7890 becomes 6281234567890" }
+          - { label: X (Twitter) username, name: x, widget: string, required: false, hint: "Without @" }
+          - { label: Instagram username, name: instagram, widget: string, required: false, hint: "Without @. Leave empty to hide" }
+          - label: Operating hours
+            name: hours
+            widget: list
+            fields:
+              - { label: Days, name: day, widget: string }
+              - { label: Time, name: time, widget: string }
+          - { label: Timezone note, name: timezoneNote, widget: string }
+          - { label: Support message, name: supportMessage, widget: text }

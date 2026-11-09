@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "q": "How do I place an order?", "a": "Add your favorite products to the cart, then press the WhatsApp checkout button. Your order message is filled in for you — just send it. (Placeholder: edit this answer.)" },
+    { "q": "Which payment methods do you accept?", "a": "PLACEHOLDER — list the payment methods you accept, for example bank transfer or e-wallet." },
+    { "q": "How long does processing take?", "a": "PLACEHOLDER — write your usual processing time here." },
+    { "q": "What if I have a problem with my product?", "a": "PLACEHOLDER — explain your warranty or support policy here." },
+    { "q": "Can I change my order after sending it?", "a": "PLACEHOLDER — tell customers what to do if they want to change an order." }
+  ]
+}

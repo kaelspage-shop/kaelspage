@@ -1,0 +1,2987 @@
+{
+ "products": [
+  {
+   "name": "Netflix",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 6000,
+     "group": "1P1U"
+    },
+    {
+     "duration": "3 hari",
+     "price": 12000,
+     "group": "1P1U"
+    },
+    {
+     "duration": "7 hari",
+     "price": 18000,
+     "group": "1P1U"
+    },
+    {
+     "duration": "14 hari",
+     "price": 30000,
+     "group": "1P1U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 45000,
+     "group": "1P1U"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 85000,
+     "group": "1P1U"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 125000,
+     "group": "1P1U"
+    },
+    {
+     "duration": "1 hari",
+     "price": 5000,
+     "group": "1P2U"
+    },
+    {
+     "duration": "3 hari",
+     "price": 8000,
+     "group": "1P2U"
+    },
+    {
+     "duration": "7 hari",
+     "price": 15000,
+     "group": "1P2U"
+    },
+    {
+     "duration": "14 hari",
+     "price": 25000,
+     "group": "1P2U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 30000,
+     "group": "1P2U"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 55000,
+     "group": "1P2U"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 85000,
+     "group": "1P2U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 55000,
+     "group": "Semi Private"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 60000,
+     "group": "Anti Limit"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 65000,
+     "group": "Single Screen"
+    },
+    {
+     "duration": "1 bulan (RVISA)",
+     "price": 180000,
+     "group": "Private"
+    },
+    {
+     "duration": "1 bulan (Legal)",
+     "price": 200000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Amazon Prime",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 4000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "3 hari",
+     "price": 8000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "7 hari",
+     "price": 12000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan (4U-5U)",
+     "price": 15000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan (3U)",
+     "price": 20000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan (2U)",
+     "price": 25000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 35000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "YouTube Premium",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 12000,
+     "group": "Famplan"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 20000,
+     "group": "Famplan"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 20000,
+     "group": "Indplan"
+    },
+    {
+     "duration": "3 bulan (Renew)",
+     "price": 45000,
+     "group": "Indplan"
+    },
+    {
+     "duration": "3 bulan (No Renew)",
+     "price": 60000,
+     "group": "Indplan"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 45000,
+     "group": "Mixplan"
+    },
+    {
+     "duration": "4 bulan",
+     "price": 55000,
+     "group": "Mixplan"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Vidio",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 10000,
+     "group": "Sharing 2U (All Devices)"
+    },
+    {
+     "duration": "3 hari",
+     "price": 15000,
+     "group": "Sharing 2U (All Devices)"
+    },
+    {
+     "duration": "7 hari",
+     "price": 20000,
+     "group": "Sharing 2U (All Devices)"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 35000,
+     "group": "Sharing 2U (All Devices)"
+    },
+    {
+     "duration": "1 hari",
+     "price": 12000,
+     "group": "Private (All Devices)"
+    },
+    {
+     "duration": "3 hari",
+     "price": 18000,
+     "group": "Private (All Devices)"
+    },
+    {
+     "duration": "7 hari",
+     "price": 25000,
+     "group": "Private (All Devices)"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 55000,
+     "group": "Private (All Devices)"
+    },
+    {
+     "duration": "1 hari",
+     "price": 7000,
+     "group": "Sharing 2U (Mobile)"
+    },
+    {
+     "duration": "3 hari",
+     "price": 12000,
+     "group": "Sharing 2U (Mobile)"
+    },
+    {
+     "duration": "7 hari",
+     "price": 18000,
+     "group": "Sharing 2U (Mobile)"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 30000,
+     "group": "Sharing 2U (Mobile)"
+    },
+    {
+     "duration": "1 hari",
+     "price": 10000,
+     "group": "Private (Mobile)"
+    },
+    {
+     "duration": "3 hari",
+     "price": 15000,
+     "group": "Private (Mobile)"
+    },
+    {
+     "duration": "7 hari",
+     "price": 20000,
+     "group": "Private (Mobile)"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 40000,
+     "group": "Private (Mobile)"
+    },
+    {
+     "duration": "1 hari",
+     "price": 5000,
+     "group": "Sharing 2U (TV Only)"
+    },
+    {
+     "duration": "3 hari",
+     "price": 10000,
+     "group": "Sharing 2U (TV Only)"
+    },
+    {
+     "duration": "7 hari",
+     "price": 15000,
+     "group": "Sharing 2U (TV Only)"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 25000,
+     "group": "Sharing 2U (TV Only)"
+    },
+    {
+     "duration": "1 hari",
+     "price": 8000,
+     "group": "Private (TV Only)"
+    },
+    {
+     "duration": "3 hari",
+     "price": 12000,
+     "group": "Private (TV Only)"
+    },
+    {
+     "duration": "7 hari",
+     "price": 20000,
+     "group": "Private (TV Only)"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 35000,
+     "group": "Private (TV Only)"
+    },
+    {
+     "duration": "1 bulan all devices",
+     "price": 70000,
+     "group": "Platinum Extra Private"
+    },
+    {
+     "duration": "1 bulan mobile",
+     "price": 50000,
+     "group": "Platinum Extra Private"
+    },
+    {
+     "duration": "1 bulan all devices",
+     "price": 87000,
+     "group": "Ultimate Sharing"
+    },
+    {
+     "duration": "1 bulan mobile",
+     "price": 55000,
+     "group": "Ultimate Sharing"
+    },
+    {
+     "duration": "1 bulan all devices",
+     "price": 165000,
+     "group": "Ultimate Private"
+    },
+    {
+     "duration": "1 bulan mobile",
+     "price": 95000,
+     "group": "Ultimate Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Disney+",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari 6U",
+     "price": 5000,
+     "group": "Premium Plan"
+    },
+    {
+     "duration": "3 hari 6U",
+     "price": 12000,
+     "group": "Premium Plan"
+    },
+    {
+     "duration": "5 hari 6U",
+     "price": 15000,
+     "group": "Premium Plan"
+    },
+    {
+     "duration": "7 hari 6U",
+     "price": 20000,
+     "group": "Premium Plan"
+    },
+    {
+     "duration": "1 hari 3U",
+     "price": 10000,
+     "group": "Premium Plan"
+    },
+    {
+     "duration": "3 hari 3U",
+     "price": 15000,
+     "group": "Premium Plan"
+    },
+    {
+     "duration": "5 hari 3U",
+     "price": 20000,
+     "group": "Premium Plan"
+    },
+    {
+     "duration": "7 hari 3U",
+     "price": 25000,
+     "group": "Premium Plan"
+    },
+    {
+     "duration": "1 bulan 6U",
+     "price": 35000,
+     "group": "Premium Plan"
+    },
+    {
+     "duration": "1 bulan 5U",
+     "price": 40000,
+     "group": "Premium Plan"
+    },
+    {
+     "duration": "1 bulan 4U",
+     "price": 46000,
+     "group": "Premium Plan"
+    },
+    {
+     "duration": "1 bulan 3U",
+     "price": 60000,
+     "group": "Premium Plan"
+    },
+    {
+     "duration": "1 hari 3U",
+     "price": 4000,
+     "group": "Basic Plan"
+    },
+    {
+     "duration": "3 hari 3U",
+     "price": 9000,
+     "group": "Basic Plan"
+    },
+    {
+     "duration": "5 hari 3U",
+     "price": 13000,
+     "group": "Basic Plan"
+    },
+    {
+     "duration": "7 hari 3U",
+     "price": 16000,
+     "group": "Basic Plan"
+    },
+    {
+     "duration": "1 bulan 3U",
+     "price": 35000,
+     "group": "Basic Plan"
+    },
+    {
+     "duration": "1 bulan 2U",
+     "price": 45000,
+     "group": "Basic Plan"
+    },
+    {
+     "duration": "1 bulan (Premium)",
+     "price": 160000,
+     "group": "Private"
+    },
+    {
+     "duration": "1 bulan (Basic)",
+     "price": 90000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "HBO",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 5000,
+     "group": "Standar Sharing"
+    },
+    {
+     "duration": "3 hari",
+     "price": 8000,
+     "group": "Standar Sharing"
+    },
+    {
+     "duration": "7 hari",
+     "price": 15000,
+     "group": "Standar Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 25000,
+     "group": "Standar Sharing"
+    },
+    {
+     "duration": "1 hari (8U)",
+     "price": 7000,
+     "group": "Ultimate/Premium Sharing"
+    },
+    {
+     "duration": "3 hari (8U)",
+     "price": 12000,
+     "group": "Ultimate/Premium Sharing"
+    },
+    {
+     "duration": "7 hari (8U)",
+     "price": 20000,
+     "group": "Ultimate/Premium Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 35000,
+     "group": "Ultimate/Premium Sharing"
+    },
+    {
+     "duration": "1 hari",
+     "price": 8000,
+     "group": "Ultimate/Premium Anlim"
+    },
+    {
+     "duration": "3 hari",
+     "price": 18000,
+     "group": "Ultimate/Premium Anlim"
+    },
+    {
+     "duration": "7 hari",
+     "price": 25000,
+     "group": "Ultimate/Premium Anlim"
+    },
+    {
+     "duration": "1 bulan (sharing)",
+     "price": 45000,
+     "group": "Ultimate/Premium Anlim"
+    },
+    {
+     "duration": "1 bulan (Standar)",
+     "price": 75000,
+     "group": "Private"
+    },
+    {
+     "duration": "1 bulan (Ultimate/Premium)",
+     "price": 125000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Viu",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 3000,
+     "group": "Private Anlim"
+    },
+    {
+     "duration": "3 hari",
+     "price": 6000,
+     "group": "Private Anlim"
+    },
+    {
+     "duration": "7 hari",
+     "price": 10000,
+     "group": "Private Anlim"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 15000,
+     "group": "Private Anlim"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 20000,
+     "group": "Private Anlim"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 25000,
+     "group": "Private Anlim"
+    },
+    {
+     "duration": "6 bulan",
+     "price": 40000,
+     "group": "Private Anlim"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 50000,
+     "group": "Private Anlim"
+    },
+    {
+     "duration": "1 hari",
+     "price": 2000,
+     "group": "Private Biasa"
+    },
+    {
+     "duration": "3 hari",
+     "price": 4000,
+     "group": "Private Biasa"
+    },
+    {
+     "duration": "7 hari",
+     "price": 8000,
+     "group": "Private Biasa"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 10000,
+     "group": "Private Biasa"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 15000,
+     "group": "Private Biasa"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 20000,
+     "group": "Private Biasa"
+    },
+    {
+     "duration": "6 bulan",
+     "price": 30000,
+     "group": "Private Biasa"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 40000,
+     "group": "Private Biasa"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Youku",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 4000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "3 hari",
+     "price": 7000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "7 hari",
+     "price": 10000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 15000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 25000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 45000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 45000,
+     "group": "Private"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 85000,
+     "group": "Private"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 245000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Loklok",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari (3U)",
+     "price": 5000,
+     "group": "Basic Sharing"
+    },
+    {
+     "duration": "3 hari (3U)",
+     "price": 8000,
+     "group": "Basic Sharing"
+    },
+    {
+     "duration": "5 hari (3U)",
+     "price": 11000,
+     "group": "Basic Sharing"
+    },
+    {
+     "duration": "7 hari (3U)",
+     "price": 15000,
+     "group": "Basic Sharing"
+    },
+    {
+     "duration": "1 bulan (3U)",
+     "price": 27000,
+     "group": "Basic Sharing"
+    },
+    {
+     "duration": "1 bulan (4U)",
+     "price": 25000,
+     "group": "Basic Sharing"
+    },
+    {
+     "duration": "1 hari",
+     "price": 8000,
+     "group": "Standard Sharing"
+    },
+    {
+     "duration": "3 hari",
+     "price": 12000,
+     "group": "Standard Sharing"
+    },
+    {
+     "duration": "7 hari",
+     "price": 17000,
+     "group": "Standard Sharing"
+    },
+    {
+     "duration": "14 hari",
+     "price": 26000,
+     "group": "Standard Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 30000,
+     "group": "Standard Sharing"
+    },
+    {
+     "duration": "1 hari",
+     "price": 7000,
+     "group": "Basic Private"
+    },
+    {
+     "duration": "3 hari",
+     "price": 15000,
+     "group": "Basic Private"
+    },
+    {
+     "duration": "7 hari",
+     "price": 20000,
+     "group": "Basic Private"
+    },
+    {
+     "duration": "11 hari",
+     "price": 25000,
+     "group": "Basic Private"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 60000,
+     "group": "Basic Private"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 80000,
+     "group": "Standard Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "WeTV",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari (6U)",
+     "price": 5000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "3 hari (6U)",
+     "price": 7000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "7 hari (6U)",
+     "price": 10000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan (8U)",
+     "price": 14000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan (5U-6U)",
+     "price": 15000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan (3U/Anlim)",
+     "price": 25000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "3 bulan (5U-6U)",
+     "price": 30000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 40000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "iQIYI",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari (5U)",
+     "price": 4000,
+     "group": "Sharing Standard"
+    },
+    {
+     "duration": "3 hari (5U)",
+     "price": 8000,
+     "group": "Sharing Standard"
+    },
+    {
+     "duration": "5 hari (5U)",
+     "price": 10000,
+     "group": "Sharing Standard"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 15000,
+     "group": "Sharing Standard"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 30000,
+     "group": "Sharing Standard"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 40000,
+     "group": "Sharing Standard"
+    },
+    {
+     "duration": "1 bulan (Anlim)",
+     "price": 25000,
+     "group": "Sharing Standard"
+    },
+    {
+     "duration": "1 hari",
+     "price": 5000,
+     "group": "Sharing Premium"
+    },
+    {
+     "duration": "3 hari",
+     "price": 10000,
+     "group": "Sharing Premium"
+    },
+    {
+     "duration": "5 hari",
+     "price": 12000,
+     "group": "Sharing Premium"
+    },
+    {
+     "duration": "7 hari",
+     "price": 15000,
+     "group": "Sharing Premium"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 25000,
+     "group": "Sharing Premium"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 40000,
+     "group": "Sharing Premium"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 55000,
+     "group": "Sharing Premium"
+    },
+    {
+     "duration": "1 bulan (Anlim)",
+     "price": 30000,
+     "group": "Sharing Premium"
+    },
+    {
+     "duration": "Standar 1 bulan",
+     "price": 40000,
+     "group": "Private"
+    },
+    {
+     "duration": "Premium 1 bulan",
+     "price": 45000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Crunchyroll",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "7 hari",
+     "price": 12000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "14 hari",
+     "price": 16000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 20000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 35000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "7 hari",
+     "price": 18000,
+     "group": "Private"
+    },
+    {
+     "duration": "14 hari",
+     "price": 24000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Bstation",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 5000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "3 hari",
+     "price": 8000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "7 hari",
+     "price": 11000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 15000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 25000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 45000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 40000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "RCTI+",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari (2U)",
+     "price": 6000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "3 hari (2U)",
+     "price": 12000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "7 hari (2U)",
+     "price": 15000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 hari",
+     "price": 8000,
+     "group": "Private"
+    },
+    {
+     "duration": "3 hari",
+     "price": 15000,
+     "group": "Private"
+    },
+    {
+     "duration": "7 hari",
+     "price": 24000,
+     "group": "Private"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 35000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Vision+",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari (2U)",
+     "price": 6000,
+     "group": "Sharing PayTV"
+    },
+    {
+     "duration": "3 hari (2U)",
+     "price": 10000,
+     "group": "Sharing PayTV"
+    },
+    {
+     "duration": "7 hari (2U)",
+     "price": 15000,
+     "group": "Sharing PayTV"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 25000,
+     "group": "Sharing PayTV"
+    },
+    {
+     "duration": "1 hari",
+     "price": 10000,
+     "group": "Private PayTV"
+    },
+    {
+     "duration": "3 hari",
+     "price": 15000,
+     "group": "Private PayTV"
+    },
+    {
+     "duration": "7 hari",
+     "price": 20000,
+     "group": "Private PayTV"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 50000,
+     "group": "Private PayTV"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Gagaoolala",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 5000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "3 hari",
+     "price": 7000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "7 hari",
+     "price": 12000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 20000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 30000,
+     "group": "Sharing"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Mango TV",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 15000,
+     "group": "Sharing"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Melolo",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 8000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "7 hari",
+     "price": 15000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 20000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 30000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "6 bulan",
+     "price": 35000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 40000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "7 hari",
+     "price": 30000,
+     "group": "Private"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 55000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Dramawave",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 15000,
+     "group": "Sharing (Login App)"
+    },
+    {
+     "duration": "7 hari",
+     "price": 55000,
+     "group": "Sharing (Login App)"
+    },
+    {
+     "duration": "7 hari",
+     "price": 35000,
+     "group": "Private (Login Web)"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 70000,
+     "group": "Private (Login Web)"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "ReelShort",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 20000,
+     "group": "Sharing (Login App)"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 38000,
+     "group": "Sharing (Login App)"
+    },
+    {
+     "duration": "6 bulan",
+     "price": 58000,
+     "group": "Sharing (Login App)"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 84000,
+     "group": "Sharing (Login App)"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "DramaBox",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "7 hari",
+     "price": 15000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 25000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 60000,
+     "group": "Sharing"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "ShortMax",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "7 hari",
+     "price": 20000,
+     "group": "Sharing (Login App)"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 25000,
+     "group": "Sharing (Login App)"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 45000,
+     "group": "Sharing (Login App)"
+    },
+    {
+     "duration": "6 bulan",
+     "price": 60000,
+     "group": "Sharing (Login App)"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 90000,
+     "group": "Sharing (Login App)"
+    },
+    {
+     "duration": "7 hari",
+     "price": 20000,
+     "group": "Sharing (Login Web)"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 35000,
+     "group": "Sharing (Login Web)"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 75000,
+     "group": "Private (Login Web)"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "NetShort",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "7 hari",
+     "price": 25000,
+     "group": "Sharing (Login Web)"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 40000,
+     "group": "Sharing (Login Web)"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Viki",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan (Plus)",
+     "price": 20000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan (Standard)",
+     "price": 18000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "7 hari",
+     "price": 18000,
+     "group": "Private"
+    },
+    {
+     "duration": "1 bulan (Plus)",
+     "price": 40000,
+     "group": "Private"
+    },
+    {
+     "duration": "1 bulan (Standard)",
+     "price": 30000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Drakor ID",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 15000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 35000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 45000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 30000,
+     "group": "Private"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 40000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Apple Music",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 23000,
+     "group": "Famplan"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 30000,
+     "group": "Famplan"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 38000,
+     "group": "Famplan"
+    },
+    {
+     "duration": "4 bulan",
+     "price": 43000,
+     "group": "Famplan"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 30000,
+     "group": "Individual Plan"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Spotify",
+   "category": "Entertainment",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 6000,
+     "group": "Harian"
+    },
+    {
+     "duration": "3 hari",
+     "price": 10000,
+     "group": "Harian"
+    },
+    {
+     "duration": "7 hari",
+     "price": 18000,
+     "group": "Harian"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 25000,
+     "group": "Famplan"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 50000,
+     "group": "Famplan"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 70000,
+     "group": "Famplan"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 35000,
+     "group": "Indplan Replace"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 55000,
+     "group": "Indplan Replace"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 75000,
+     "group": "Indplan Replace"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 45000,
+     "group": "Indplan No Replace"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 58000,
+     "group": "Indplan No Replace"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 160000,
+     "group": "Indplan No Replace"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 35000,
+     "group": "Student"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 70000,
+     "group": "Student"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 35000,
+     "group": "Student Legal PPJ"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 45000,
+     "group": "Indplan Legal PPJ"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "ChatGPT Go",
+   "category": "Education",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 6000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "3 hari",
+     "price": 10000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "7 hari",
+     "price": 15000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 35000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 80000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 65000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "ChatGPT Plus",
+   "category": "Education",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 10000,
+     "group": "Sharing 8U"
+    },
+    {
+     "duration": "3 hari",
+     "price": 15000,
+     "group": "Sharing 8U"
+    },
+    {
+     "duration": "7 hari",
+     "price": 20000,
+     "group": "Sharing 8U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 40000,
+     "group": "Sharing 8U"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 85000,
+     "group": "Sharing 8U"
+    },
+    {
+     "duration": "1 hari",
+     "price": 15000,
+     "group": "Sharing 5U"
+    },
+    {
+     "duration": "3 hari",
+     "price": 20000,
+     "group": "Sharing 5U"
+    },
+    {
+     "duration": "7 hari",
+     "price": 30000,
+     "group": "Sharing 5U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 55000,
+     "group": "Sharing 5U"
+    },
+    {
+     "duration": "1 hari",
+     "price": 18000,
+     "group": "Sharing 3U"
+    },
+    {
+     "duration": "3 hari",
+     "price": 25000,
+     "group": "Sharing 3U"
+    },
+    {
+     "duration": "7 hari",
+     "price": 35000,
+     "group": "Sharing 3U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 65000,
+     "group": "Sharing 3U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 170000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Claude Pro",
+   "category": "Education",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "7 hari",
+     "price": 65000,
+     "group": "Sharing 3U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 170000,
+     "group": "Sharing 3U"
+    },
+    {
+     "duration": "7 hari",
+     "price": 60000,
+     "group": "Sharing 5U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 150000,
+     "group": "Sharing 5U"
+    },
+    {
+     "duration": "7 hari",
+     "price": 140000,
+     "group": "Private"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 400000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Grok AI",
+   "category": "Education",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "7 hari",
+     "price": 35000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Gemini AI",
+   "category": "Education",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 25000,
+     "group": "Sharing 5U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 25000,
+     "group": "Famplan / Invite"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 40000,
+     "group": "Famplan / Invite"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 55000,
+     "group": "Famplan / Invite"
+    },
+    {
+     "duration": "6 bulan",
+     "price": 95000,
+     "group": "Famplan / Invite"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 120000,
+     "group": "Famplan / Invite"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Kiro AI",
+   "category": "Education",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "14 hari",
+     "price": 50000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Perplexity AI",
+   "category": "Education",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 8000,
+     "group": "Sharing 5U"
+    },
+    {
+     "duration": "3 hari",
+     "price": 15000,
+     "group": "Sharing 5U"
+    },
+    {
+     "duration": "7 hari",
+     "price": 23000,
+     "group": "Sharing 5U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 40000,
+     "group": "Sharing 5U"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Duolingo Super",
+   "category": "Education",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 7000,
+     "group": "Famplan / Invite"
+    },
+    {
+     "duration": "3 hari",
+     "price": 10000,
+     "group": "Famplan / Invite"
+    },
+    {
+     "duration": "7 hari",
+     "price": 15000,
+     "group": "Famplan / Invite"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 20000,
+     "group": "Famplan / Invite"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 40000,
+     "group": "Famplan / Invite"
+    },
+    {
+     "duration": "6 bulan",
+     "price": 70000,
+     "group": "Famplan / Invite"
+    },
+    {
+     "duration": "14 hari",
+     "price": 18000,
+     "group": "Individual Plan"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 30000,
+     "group": "Individual Plan"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 45000,
+     "group": "Individual Plan"
+    },
+    {
+     "duration": "6 bulan",
+     "price": 60000,
+     "group": "Individual Plan"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 45000,
+     "group": "Head"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Scribd",
+   "category": "Education",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 15000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 20000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 28000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 35000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Microsoft 365",
+   "category": "Productivity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 15000,
+     "group": "Famplan / Invite"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 25000,
+     "group": "Famplan / Invite"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 30000,
+     "group": "Famplan / Invite"
+    },
+    {
+     "duration": "6 bulan",
+     "price": 55000,
+     "group": "Famplan / Invite"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 60000,
+     "group": "Famplan / Invite"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 45000,
+     "group": "Head"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Goodnotes iOS",
+   "category": "Productivity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 tahun",
+     "price": 30000
+    },
+    {
+     "duration": "Lifetime (garansi 6 bulan)",
+     "price": 40000
+    },
+    {
+     "duration": "Lifetime (garansi 12 bulan)",
+     "price": 45000
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "QuillBot",
+   "category": "Productivity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "7 hari",
+     "price": 15000,
+     "group": "Sharing 8U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 25000,
+     "group": "Sharing 8U"
+    },
+    {
+     "duration": "1 hari",
+     "price": 5000,
+     "group": "Sharing 5U"
+    },
+    {
+     "duration": "3 hari",
+     "price": 7000,
+     "group": "Sharing 5U"
+    },
+    {
+     "duration": "7 hari",
+     "price": 15000,
+     "group": "Sharing 5U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 30000,
+     "group": "Sharing 5U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 60000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Grammarly",
+   "category": "Productivity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 6000,
+     "group": "Sharing 5U"
+    },
+    {
+     "duration": "3 hari",
+     "price": 10000,
+     "group": "Sharing 5U"
+    },
+    {
+     "duration": "7 hari",
+     "price": 25000,
+     "group": "Sharing 5U"
+    },
+    {
+     "duration": "7 hari",
+     "price": 20000,
+     "group": "Sharing 8U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 25000,
+     "group": "Sharing 8U"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 35000,
+     "group": "Sharing 8U"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 65000,
+     "group": "Sharing 8U"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 75000,
+     "group": "Sharing 8U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 55000,
+     "group": "Private"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 65000,
+     "group": "Private"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 75000,
+     "group": "Private"
+    },
+    {
+     "duration": "6 bulan",
+     "price": 100000,
+     "group": "Private"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 35000,
+     "group": "Education"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "WPS Office",
+   "category": "Productivity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 20000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 30000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 40000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "DeepL Pro",
+   "category": "Productivity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 7000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "3 hari",
+     "price": 10000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "7 hari",
+     "price": 15000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "14 hari",
+     "price": 25000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 30000,
+     "group": "Sharing 3U"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 50000,
+     "group": "Sharing 3U"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 65000,
+     "group": "Sharing 3U"
+    },
+    {
+     "duration": "1 hari",
+     "price": 11000,
+     "group": "Private"
+    },
+    {
+     "duration": "3 hari",
+     "price": 15000,
+     "group": "Private"
+    },
+    {
+     "duration": "7 hari",
+     "price": 25000,
+     "group": "Private"
+    },
+    {
+     "duration": "14 hari",
+     "price": 35000,
+     "group": "Private"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 40000,
+     "group": "Private"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 70000,
+     "group": "Private"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 90000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Kilonotes",
+   "category": "Productivity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "Garansi 6 bulan",
+     "price": 35000,
+     "group": "Lifetime"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "iLovePDF",
+   "category": "Productivity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 15000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 35000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 35000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Zoom",
+   "category": "Productivity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 jam",
+     "price": 7000,
+     "group": "100 Peserta"
+    },
+    {
+     "duration": "1 hari",
+     "price": 15000,
+     "group": "100 Peserta"
+    },
+    {
+     "duration": "7 hari",
+     "price": 45000,
+     "group": "100 Peserta"
+    },
+    {
+     "duration": "14 hari",
+     "price": 55000,
+     "group": "100 Peserta"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 75000,
+     "group": "100 Peserta"
+    },
+    {
+     "duration": "1 jam",
+     "price": 15000,
+     "group": "300 Peserta"
+    },
+    {
+     "duration": "1 hari",
+     "price": 35000,
+     "group": "300 Peserta"
+    },
+    {
+     "duration": "7 hari",
+     "price": 100000,
+     "group": "300 Peserta"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 185000,
+     "group": "300 Peserta"
+    },
+    {
+     "duration": "1 jam",
+     "price": 25000,
+     "group": "500 Peserta"
+    },
+    {
+     "duration": "1 hari",
+     "price": 65000,
+     "group": "500 Peserta"
+    },
+    {
+     "duration": "7 hari",
+     "price": 250000,
+     "group": "500 Peserta"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 350000,
+     "group": "500 Peserta"
+    },
+    {
+     "duration": "1 jam",
+     "price": 45000,
+     "group": "1000 Peserta"
+    },
+    {
+     "duration": "1 hari",
+     "price": 115000,
+     "group": "1000 Peserta"
+    },
+    {
+     "duration": "7 hari",
+     "price": 335000,
+     "group": "1000 Peserta"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 500000,
+     "group": "1000 Peserta"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "CapCut Pro",
+   "category": "Design & Creativity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 8000,
+     "group": "Sharing 3U"
+    },
+    {
+     "duration": "3 hari",
+     "price": 12000,
+     "group": "Sharing 3U"
+    },
+    {
+     "duration": "7 hari",
+     "price": 17000,
+     "group": "Sharing 3U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 35000,
+     "group": "Sharing 3U"
+    },
+    {
+     "duration": "1 hari",
+     "price": 9000,
+     "group": "Sharing 2U"
+    },
+    {
+     "duration": "3 hari",
+     "price": 15000,
+     "group": "Sharing 2U"
+    },
+    {
+     "duration": "7 hari",
+     "price": 20000,
+     "group": "Sharing 2U"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 45000,
+     "group": "Sharing 2U"
+    },
+    {
+     "duration": "1 hari",
+     "price": 10000,
+     "group": "Private"
+    },
+    {
+     "duration": "3 hari",
+     "price": 18000,
+     "group": "Private"
+    },
+    {
+     "duration": "7 hari",
+     "price": 25000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Canva",
+   "category": "Design & Creativity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 hari",
+     "price": 3000,
+     "group": "Member"
+    },
+    {
+     "duration": "3 hari",
+     "price": 5000,
+     "group": "Member"
+    },
+    {
+     "duration": "7 hari",
+     "price": 7000,
+     "group": "Member"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 12000,
+     "group": "Member"
+    },
+    {
+     "duration": "2 bulan",
+     "price": 14000,
+     "group": "Member"
+    },
+    {
+     "duration": "3 bulan",
+     "price": 17000,
+     "group": "Member"
+    },
+    {
+     "duration": "4 bulan",
+     "price": 20000,
+     "group": "Member"
+    },
+    {
+     "duration": "5 bulan",
+     "price": 24000,
+     "group": "Member"
+    },
+    {
+     "duration": "6 bulan",
+     "price": 27000,
+     "group": "Member"
+    },
+    {
+     "duration": "1 tahun (garansi 6 bulan)",
+     "price": 32000,
+     "group": "Member"
+    },
+    {
+     "duration": "1 tahun (full garansi)",
+     "price": 37000,
+     "group": "Member"
+    },
+    {
+     "duration": "Lifetime (garansi 6 bulan)",
+     "price": 34000,
+     "group": "Education"
+    },
+    {
+     "duration": "Lifetime (garansi 12 bulan)",
+     "price": 40000,
+     "group": "Education"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Dazzcam iOS",
+   "category": "Design & Creativity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "Garansi 6 bulan",
+     "price": 30000,
+     "group": "Lifetime"
+    },
+    {
+     "duration": "Garansi 1 tahun",
+     "price": 45000,
+     "group": "Lifetime"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "CamScanner",
+   "category": "Design & Creativity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 20000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "6 bulan",
+     "price": 35000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 40000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 30000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Alight Motion",
+   "category": "Design & Creativity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 15000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 30000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 35000,
+     "group": "Private"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 50000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Beauty Plus",
+   "category": "Design & Creativity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "Lifetime (garansi 6 bulan)",
+     "price": 33000,
+     "group": "iOS"
+    },
+    {
+     "duration": "Lifetime (garansi 6 bulan)",
+     "price": 33000,
+     "group": "Android"
+    },
+    {
+     "duration": "Lifetime (garansi 1 tahun)",
+     "price": 40000,
+     "group": "Android"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "PicsArt",
+   "category": "Design & Creativity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 15000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 25000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Ibis Paint",
+   "category": "Design & Creativity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "6 bulan",
+     "price": 30000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 40000,
+     "group": "Sharing"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "InShot",
+   "category": "Design & Creativity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "Lifetime (garansi 1 tahun)",
+     "price": 40000,
+     "group": "Sharing"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Lightroom",
+   "category": "Design & Creativity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 tahun",
+     "price": 40000,
+     "group": "Sharing"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Meitu",
+   "category": "Design & Creativity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "VIP 7 hari",
+     "price": 15000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "VIP+ 7 hari",
+     "price": 25000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "VIP 7 hari",
+     "price": 25000,
+     "group": "Private"
+    },
+    {
+     "duration": "VIP+ 7 hari",
+     "price": 35000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Oldroll",
+   "category": "Design & Creativity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "Garansi 6 bulan",
+     "price": 35000,
+     "group": "Lifetime"
+    },
+    {
+     "duration": "Garansi 1 tahun",
+     "price": 45000,
+     "group": "Lifetime"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Procreate",
+   "category": "Design & Creativity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "Garansi 6 bulan",
+     "price": 35000,
+     "group": "Lifetime"
+    },
+    {
+     "duration": "Garansi 1 tahun",
+     "price": 40000,
+     "group": "Lifetime"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Remini",
+   "category": "Design & Creativity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 20000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 40000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "7 hari",
+     "price": 14000,
+     "group": "Private"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 35000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "VSCO",
+   "category": "Design & Creativity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "6 bulan",
+     "price": 25000,
+     "group": "Sharing Plus"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 35000,
+     "group": "Sharing Plus"
+    },
+    {
+     "duration": "1 tahun",
+     "price": 45000,
+     "group": "Sharing Pro"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Wink",
+   "category": "Design & Creativity",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "7 hari",
+     "price": 20000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 38000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "7 hari",
+     "price": 25000,
+     "group": "Private"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 60000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Wattpad",
+   "category": "Other Apps",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 15000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 tahun (garansi 6 bulan)",
+     "price": 35000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 40000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Get Contact",
+   "category": "Other Apps",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 15000
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "HMA VPN",
+   "category": "Other Apps",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 20000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 35000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "ExpressVPN",
+   "category": "Other Apps",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 25000,
+     "group": "Sharing"
+    },
+    {
+     "duration": "1 bulan",
+     "price": 40000,
+     "group": "Private"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Surfshark VPN",
+   "category": "Other Apps",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 20000,
+     "group": "Sharing"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  },
+  {
+   "name": "Windscribe VPN",
+   "category": "Other Apps",
+   "status": "available",
+   "image": "/images/placeholder.svg",
+   "description": "Pilih tipe akun dan durasi yang kamu mau. Tanyakan ketersediaan stok lewat WhatsApp.",
+   "options": [
+    {
+     "duration": "1 bulan",
+     "price": 20000,
+     "group": "Sharing"
+    }
+   ],
+   "specifications": [],
+   "terms": []
+  }
+ ]
+}

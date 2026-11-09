@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; scroll-padding-top: 5rem; }
+body { @apply bg-cream font-sans text-cocoa antialiased; }
+h1, h2, h3, h4 { @apply font-serif; }
+:focus-visible { outline: 3px solid #B58B69; outline-offset: 2px; border-radius: 8px; }
+
+/* Brown polka-dot backdrop used across sections */
+.polka {
+  background-image: radial-gradient(circle, rgba(128,88,61,.16) 3px, transparent 3.5px);
+  background-size: 30px 30px;
+}
+.polka-light {
+  background-image: radial-gradient(circle, rgba(181,139,105,.22) 2.5px, transparent 3px);
+  background-size: 24px 24px;
+}
+.btn { @apply inline-flex min-h-[44px] items-center justify-center gap-2 rounded-full px-6 py-2.5 text-sm font-bold transition duration-200 active:scale-95; }
+.btn-primary { @apply bg-cocoa text-soft shadow-boutique hover:bg-mocha hover:shadow-lift; }
+.btn-ghost { @apply border-2 border-cocoa text-cocoa hover:bg-cocoa hover:text-soft; }
+.btn:disabled { @apply cursor-not-allowed opacity-50 hover:bg-cocoa; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
